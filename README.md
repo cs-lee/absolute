@@ -1,3 +1,3 @@
-# absolute project
-# This is Changsu Lee First project.
-# 2017-01-12
+# This is First project "Absolute".
+# Web based mobile notification and data transfer solution.
+# So happy.
